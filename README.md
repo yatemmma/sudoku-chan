@@ -4,7 +4,7 @@ sudoku chan
 ## Usage
 
 ```
-python sudoku.py xxx.csv
+python sudoku.py data/input1.csv
 ```
 
 ## TODO
